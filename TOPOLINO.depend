@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1570871928 source:g:\informatica\c++\topolino\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<bits/stdc++.h>
+
+1569705924 g:\informatica\c++\topolino\onorato.hpp
+	<iostream>
+	<sstream>
+	<string>
+	<cstring>
+	<cctype>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<algorithm>
+	<bitset>
+	<typeinfo>
+	<bits/stdc++.h>
+	"windows.h"
+	"conio.h"
+
+1570871928 source:f:\informatica\c++\topolino\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<bits/stdc++.h>
+
